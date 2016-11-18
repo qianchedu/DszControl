@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DszControl</string>
+
+    <!--dialog_normal_layout.xml文件-->
+    <string name="title_alert">提示信息</string>
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+
+</resources>
